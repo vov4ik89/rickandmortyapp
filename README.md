@@ -4,7 +4,7 @@
 Rick and Morty Application is a simple program that stores in a database all the characters of the TV series
 and updates this list every day. User can send a request for two endpoints:
 - /movie-characters/random - to get a description of a random character
-- /movie-characters/by-name?name=... - to search for a character by part of their name
+- /movie-characters/by-name - to search for a character by part of their name
 
 **Technologies** 📡
 - JDK 17
