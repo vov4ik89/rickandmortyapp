@@ -19,4 +19,3 @@ and updates this list every day. User can send a request for two endpoints:
 3. Configure - /resources/application.properties
 4. Install PostgreSQL
 5. Run the project
-# rickandmortyapp
