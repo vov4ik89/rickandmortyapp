@@ -18,7 +18,7 @@ services:
   app:
     depends_on:
       - postgres
-    image: artmar/rick-and-morty-test-app
+    image: vo/rick-and-morty-test-app
     build: .
     env_file: ./.env
     ports:
